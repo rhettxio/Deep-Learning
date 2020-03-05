@@ -11,9 +11,9 @@ In this repo I build a CNN for image classification on Fashion MNIST dataset, an
 5. Analyze the Results
 
 ## Demo
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/example%20images.png)
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/loss.png)
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/accuracy.png)
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/confusion%20matrix.png)
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/prediction.png)
-![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20classification%20of%20Fashion%20MNIST/incorrect%20prediction.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/example%20images.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/loss.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/accuracy.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/confusion%20matrix.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/prediction.png)
+![alt text](https://github.com/rhettxio/Deep-Learning/blob/master/CNN%20for%20Fashion%20MNIST/incorrect%20prediction.png)
