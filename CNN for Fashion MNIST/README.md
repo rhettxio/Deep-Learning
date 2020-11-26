@@ -1,7 +1,7 @@
 # CNN for Image Classification on Fashion MNIST Dataset
  
 ## Objective
-In this repo I build a CNN for image classification on Fashion MNIST dataset, and analyze the results.
+In this repo I have built a CNN for image classification on Fashion MNIST dataset.
 
 ## Steps
 1. Load the data
