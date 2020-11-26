@@ -1,7 +1,7 @@
 # CNN for Image Classification on CIFAR-10 Dataset
  
 ## Objective
-In this repo I build a CNN for image classification on CIFAR-10 dataset, after train the simaple CNN, I improve the CNN by using batch-normalization and data augmentation, fanally analyze the results.
+In this repo I build a CNN for image classification on CIFAR-10 dataset, after trained the simple CNN, the improvement has been done by using batch-normalization and data augmentation.
 
 ## Steps
 1. Load the data
