@@ -1,7 +1,7 @@
 # ANN for Image Classification
  
 ## Objective
-In this repo I have built an ANN for image classification by using MNIST digits dataset, and analyze the results.
+In this repo I have built an ANN for image classification by using MNIST digits dataset.
 
 ## Steps
 1. Load the data
