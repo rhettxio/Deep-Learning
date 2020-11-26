@@ -1,7 +1,7 @@
 # ANN for Regression
  
 ## Objective
-In this repo I build an ANN for regression a sinusoidal function, then comapred the performance of Batch Gradient Ddescend and Minibatch Gradient Descend.
+In this repo I have built an ANN for regression on a sinusoidal function, also the performance of utilize the Batch Gradient Ddescend and Minibatch Gradient Descend has been compared.
 
 ## Steps
 1. Generate artificial data
